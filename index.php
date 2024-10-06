@@ -2,4 +2,7 @@
   <head>
     <link rel="stylesheet" href="style.css">
   </head>
+  <body>
+    Test
+  </body>
 </html>
