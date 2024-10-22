@@ -1,18 +1,17 @@
 {
   "files": {
-    "main.css": "/online-agrimercado/static/css/main.435d5fe5.chunk.css",
-    "main.js": "/online-agrimercado/static/js/main.01b01939.chunk.js",
-    "main.js.map": "/online-agrimercado/static/js/main.01b01939.chunk.js.map",
-    "runtime~main.js": "/online-agrimercado/static/js/runtime~main.31e5027a.js",
-    "runtime~main.js.map": "/online-agrimercado/static/js/runtime~main.31e5027a.js.map",
-    "static/js/2.bbc244fd.chunk.js": "/online-agrimercado/static/js/2.bbc244fd.chunk.js",
-    "static/js/2.bbc244fd.chunk.js.map": "/online-agrimercado/static/js/2.bbc244fd.chunk.js.map",
-    "static/js/3.a29efab2.chunk.js": "/online-agrimercado/static/js/3.a29efab2.chunk.js",
-    "static/js/3.a29efab2.chunk.js.map": "/online-agrimercado/static/js/3.a29efab2.chunk.js.map",
+    "main.css": "/online-agrimercado/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/online-agrimercado/static/js/main.e75764ba.chunk.js",
+    "main.js.map": "/online-agrimercado/static/js/main.e75764ba.chunk.js.map",
+    "runtime~main.js": "/online-agrimercado/static/js/runtime~main.9dd1c7df.js",
+    "runtime~main.js.map": "/online-agrimercado/static/js/runtime~main.9dd1c7df.js.map",
+    "static/js/2.ca150098.chunk.js": "/online-agrimercado/static/js/2.ca150098.chunk.js",
+    "static/js/2.ca150098.chunk.js.map": "/online-agrimercado/static/js/2.ca150098.chunk.js.map",
+    "static/js/3.1b3c587a.chunk.js": "/online-agrimercado/static/js/3.1b3c587a.chunk.js",
+    "static/js/3.1b3c587a.chunk.js.map": "/online-agrimercado/static/js/3.1b3c587a.chunk.js.map",
     "index.html": "/online-agrimercado/index.html",
-    "precache-manifest.f8e5f59121f2bb43b17bf04ab2152c54.js": "/online-agrimercado/precache-manifest.f8e5f59121f2bb43b17bf04ab2152c54.js",
+    "precache-manifest.6ab46afdc86d359bb9e781a8e19543af.js": "/online-agrimercado/precache-manifest.6ab46afdc86d359bb9e781a8e19543af.js",
     "service-worker.js": "/online-agrimercado/service-worker.js",
-    "static/css/main.435d5fe5.chunk.css.map": "/online-agrimercado/static/css/main.435d5fe5.chunk.css.map",
-    "static/media/logo.svg": "/online-agrimercado/static/media/logo.06e73328.svg"
+    "static/css/main.5ecd60fb.chunk.css.map": "/online-agrimercado/static/css/main.5ecd60fb.chunk.css.map"
   }
 }

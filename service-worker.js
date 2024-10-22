@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/online-agrimercado/precache-manifest.f8e5f59121f2bb43b17bf04ab2152c54.js"
+  "/online-agrimercado/precache-manifest.6ab46afdc86d359bb9e781a8e19543af.js"
 );
 
 self.addEventListener('message', (event) => {
