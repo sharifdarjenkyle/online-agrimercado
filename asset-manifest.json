@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/github.io/online-agrimercado/static/css/main.435d5fe5.chunk.css",
-    "main.js": "/github.io/online-agrimercado/static/js/main.01b01939.chunk.js",
-    "main.js.map": "/github.io/online-agrimercado/static/js/main.01b01939.chunk.js.map",
-    "runtime~main.js": "/github.io/online-agrimercado/static/js/runtime~main.cc4f2373.js",
-    "runtime~main.js.map": "/github.io/online-agrimercado/static/js/runtime~main.cc4f2373.js.map",
-    "static/js/2.bbc244fd.chunk.js": "/github.io/online-agrimercado/static/js/2.bbc244fd.chunk.js",
-    "static/js/2.bbc244fd.chunk.js.map": "/github.io/online-agrimercado/static/js/2.bbc244fd.chunk.js.map",
-    "static/js/3.a29efab2.chunk.js": "/github.io/online-agrimercado/static/js/3.a29efab2.chunk.js",
-    "static/js/3.a29efab2.chunk.js.map": "/github.io/online-agrimercado/static/js/3.a29efab2.chunk.js.map",
-    "index.html": "/github.io/online-agrimercado/index.html",
-    "precache-manifest.1e7448f269b812cb4921a4ec51e7e262.js": "/github.io/online-agrimercado/precache-manifest.1e7448f269b812cb4921a4ec51e7e262.js",
-    "service-worker.js": "/github.io/online-agrimercado/service-worker.js",
-    "static/css/main.435d5fe5.chunk.css.map": "/github.io/online-agrimercado/static/css/main.435d5fe5.chunk.css.map",
-    "static/media/logo.svg": "/github.io/online-agrimercado/static/media/logo.06e73328.svg"
+    "main.css": "/online-agrimercado/static/css/main.435d5fe5.chunk.css",
+    "main.js": "/online-agrimercado/static/js/main.01b01939.chunk.js",
+    "main.js.map": "/online-agrimercado/static/js/main.01b01939.chunk.js.map",
+    "runtime~main.js": "/online-agrimercado/static/js/runtime~main.31e5027a.js",
+    "runtime~main.js.map": "/online-agrimercado/static/js/runtime~main.31e5027a.js.map",
+    "static/js/2.bbc244fd.chunk.js": "/online-agrimercado/static/js/2.bbc244fd.chunk.js",
+    "static/js/2.bbc244fd.chunk.js.map": "/online-agrimercado/static/js/2.bbc244fd.chunk.js.map",
+    "static/js/3.a29efab2.chunk.js": "/online-agrimercado/static/js/3.a29efab2.chunk.js",
+    "static/js/3.a29efab2.chunk.js.map": "/online-agrimercado/static/js/3.a29efab2.chunk.js.map",
+    "index.html": "/online-agrimercado/index.html",
+    "precache-manifest.f8e5f59121f2bb43b17bf04ab2152c54.js": "/online-agrimercado/precache-manifest.f8e5f59121f2bb43b17bf04ab2152c54.js",
+    "service-worker.js": "/online-agrimercado/service-worker.js",
+    "static/css/main.435d5fe5.chunk.css.map": "/online-agrimercado/static/css/main.435d5fe5.chunk.css.map",
+    "static/media/logo.svg": "/online-agrimercado/static/media/logo.06e73328.svg"
   }
 }
