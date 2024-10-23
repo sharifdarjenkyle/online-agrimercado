@@ -4,14 +4,21 @@ function App() {
     const [dbStatus, setDbStatus] = useState('Checking database connection...');
 
     useEffect(() => {
-        fetch('https://online-agrimercado2-m2btbb4ht-sharifdarjenkyles-projects.vercel.app/api/status')
-            .then((response) => response.json())
+        fetch('http://147.185.221.20:48289/api/status') 
+        // fetch('http://localhost:5000/api/status')
+            .then((response) => {
+                console.log('Response:', response); // Log the response object
+                if (!response.ok) {
+                    throw new Error('Network response was not ok'); // Handle non-2xx responses
+                }
+                return response.json();
+            })
             .then((data) => {
-                setDbStatus(data.message);
+                setDbStatus(data.message); // Update state with the message from the API
             })
             .catch((error) => {
-                setDbStatus('Error connecting to the database.');
-                console.error('Error:', error);
+                console.error('Fetch error:', error); // Log any errors
+                setDbStatus('Error connecting to the database.'); // Update state with error message
             });
     }, []);
 
